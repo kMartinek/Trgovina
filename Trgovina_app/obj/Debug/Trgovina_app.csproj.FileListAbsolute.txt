@@ -1,0 +1,131 @@
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csprojResolveAssemblyReference.cache
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.Cache
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.CoreCompileInputs.cache
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+D:\Downloads\RP3\Trgovina_app\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csprojAssemblyReference.cache
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_trgovina.resources
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.cache
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.CoreCompileInputs.cache
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Database1.mdf
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Database1_log.ldf
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csprojResolveAssemblyReference.cache
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_trgovina.resources
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.Cache
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.CoreCompileInputs.cache
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\NovaBaza.mdf
+C:\Users\barbara\Desktop\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\NovaBaza_log.ldf
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Database1.mdf
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Database1_log.ldf
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\NovaBaza.mdf
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\NovaBaza_log.ldf
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csprojAssemblyReference.cache
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_trgovina.resources
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.cache
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.CoreCompileInputs.cache
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+C:\Users\Bojana\Desktop\faks\rp3moji\projekt petak navecer\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\Database1.mdf
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\Database1_log.ldf
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\NovaBaza.mdf
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\NovaBaza_log.ldf
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csprojResolveAssemblyReference.cache
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_trgovina.resources
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.Cache
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\BazaK.mdf
+C:\Users\Kac\Desktop\rp3 trgovina\rp3\Trgovina_app\Trgovina_app\bin\Debug\BazaK_log.ldf
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\bin\Debug\BazaK.mdf
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\bin\Debug\BazaK_log.ldf
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Racun.resources
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\bin\Debug\BazaK.mdf
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\bin\Debug\BazaK_log.ldf
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csprojResolveAssemblyReference.cache
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_trgovina.resources
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Racun.resources
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.Cache
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.CoreCompileInputs.cache
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
+C:\Users\barbara\Desktop\projekt subota ujutro 16 02\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_direktor.resources
+C:\Users\Bojana\Desktop\faks\rp3moji\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_direktor.resources
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\bin\Debug\BazaK.mdf
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\bin\Debug\BazaK_log.ldf
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csprojResolveAssemblyReference.cache
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_direktor.resources
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_trgovina.resources
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Racun.resources
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.Cache
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.CoreCompileInputs.cache
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+C:\Users\barbara\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\bin\Debug\BazaK.mdf
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\bin\Debug\BazaK_log.ldf
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csprojResolveAssemblyReference.cache
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_direktor.resources
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_trgovina.resources
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Racun.resources
+C:\Users\Kac\Desktop\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.Cache
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\bin\Debug\BazaK.mdf
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\bin\Debug\BazaK_log.ldf
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe.config
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.exe
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\bin\Debug\Trgovina_app.pdb
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.AssemblyReference.cache
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_direktor.resources
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Form_trgovina.resources
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Login_form.resources
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Properties.Resources.resources
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.Racun.resources
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.GenerateResource.cache
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.csproj.CoreCompileInputs.cache
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.exe
+C:\Users\bozidar.DESKTOP-F6J3TPV\Downloads\Trgovina_app\Trgovina_app\obj\Debug\Trgovina_app.pdb
